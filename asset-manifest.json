@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ddcac79b.css",
+    "main.js": "/static/js/main.5ba33bed.js",
+    "static/js/488.1f3018d2.chunk.js": "/static/js/488.1f3018d2.chunk.js",
+    "static/media/eloquia-display-semibold.ttf": "/static/media/eloquia-display-semibold.246b8f5d985ffc6cf2ac.ttf",
+    "static/media/FOOTER.png": "/static/media/FOOTER.529273d0962bf61887b3.png",
+    "static/media/Typekiln - EloquiaDisplay-ExtraBold.otf": "/static/media/Typekiln - EloquiaDisplay-ExtraBold.3d7d8bde26da07b3995a.otf",
+    "static/media/Typekiln - EloquiaText-ExtraLight.otf": "/static/media/Typekiln - EloquiaText-ExtraLight.b95637468d2ce8a8da3e.otf",
+    "static/media/eloquia-display-semibold.woff2": "/static/media/eloquia-display-semibold.b4f7639a8a2772785cb4.woff2",
+    "static/media/eloquia-display-light.woff2": "/static/media/eloquia-display-light.2c981b0afcee7da0e4fc.woff2",
+    "static/media/eloquia-text-regular.woff2": "/static/media/eloquia-text-regular.d718bf587c07efc87b51.woff2",
+    "static/media/eloquia-display-thin.woff2": "/static/media/eloquia-display-thin.783e96b99d795eeb98a9.woff2",
+    "static/media/eloquia-display-hairline.woff2": "/static/media/eloquia-display-hairline.82a0bd61b015200c0af4.woff2",
+    "static/media/background_blury_chart.png": "/static/media/background_blury_chart.ec29b615f4c90fedf27a.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "index.html": "/index.html",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "main.ddcac79b.css.map": "/static/css/main.ddcac79b.css.map",
+    "main.5ba33bed.js.map": "/static/js/main.5ba33bed.js.map",
+    "488.1f3018d2.chunk.js.map": "/static/js/488.1f3018d2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ddcac79b.css",
+    "static/js/main.5ba33bed.js"
+  ]
+}
