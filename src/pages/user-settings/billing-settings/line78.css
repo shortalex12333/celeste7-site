@@ -1,0 +1,18 @@
+.line78-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.line78-dummy-container {
+  width: 100%;
+  height: 900px;
+}
+ 
+.line78-line78 {
+  width: 2156px;
+  height: 1px;
+}

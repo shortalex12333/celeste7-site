@@ -1,0 +1,1245 @@
+.user-settings-linked-accountsstart-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.user-settings-linked-accountsstart-user-settings-linked-accountsstart {
+  width: 100%;
+  height: 1663px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+ 
+.user-settings-linked-accountsstart-text10 {
+  top: 100px;
+  left: 170px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Eloquia Display;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.user-settings-linked-accountsstart-text11 {
+  top: 138px;
+  left: 170px;
+  color: rgba(119, 119, 119, 1);
+  width: 251px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Eloquia Text;
+  font-weight: 600;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.user-settings-linked-accountsstart-rectangle558 {
+  top: 229px;
+  left: 448px;
+  width: 705px;
+  height: 320px;
+  position: absolute;
+  border-color: rgba(229, 229, 229, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 14px;
+}
+ 
+.user-settings-linked-accountsstart-text12 {
+  top: 275px;
+  left: 689px;
+  color: rgba(110, 110, 115, 1);
+  height: auto;
+  position: absolute;
+  font-size: 9px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Eloquia Text;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.user-settings-linked-accountsstart-text13 {
+  top: 275px;
+  left: 800px;
+  color: rgba(110, 110, 115, 1);
+  height: auto;
+  position: absolute;
+  font-size: 9px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Eloquia Text;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.user-settings-linked-accountsstart-text14 {
+  top: 296px;
+  left: 571px;
+  color: rgba(36, 36, 36, 1);
+  width: 174px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: right;
+  font-family: Eloquia Display;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.user-settings-linked-accountsstart-text15 {
+  top: 326px;
+  left: 586px;
+  color: rgba(36, 36, 36, 1);
+  width: 159px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: right;
+  font-family: Eloquia Display;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.user-settings-linked-accountsstart-text16 {
+  top: 388px;
+  left: 571px;
+  color: rgba(36, 36, 36, 1);
+  width: 174px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: right;
+  font-family: Eloquia Display;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.user-settings-linked-accountsstart-text17 {
+  top: 418px;
+  left: 586px;
+  color: rgba(36, 36, 36, 1);
+  width: 159px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: right;
+  font-family: Eloquia Display;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.user-settings-linked-accountsstart-text18 {
+  top: 448px;
+  left: 586px;
+  color: rgba(36, 36, 36, 1);
+  width: 159px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: right;
+  font-family: Eloquia Display;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.user-settings-linked-accountsstart-text19 {
+  top: 296px;
+  left: 801px;
+  color: rgba(11, 102, 255, 1);
+  width: 208px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Eloquia Display;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.user-settings-linked-accountsstart-text20 {
+  top: 326px;
+  left: 801px;
+  color: rgba(11, 102, 255, 1);
+  width: 159px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Eloquia Display;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.user-settings-linked-accountsstart-text21 {
+  top: 357px;
+  left: 801px;
+  color: rgba(11, 102, 255, 1);
+  width: 159px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Eloquia Display;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.user-settings-linked-accountsstart-text22 {
+  top: 388px;
+  left: 801px;
+  color: rgba(11, 102, 255, 1);
+  width: 174px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Eloquia Display;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.user-settings-linked-accountsstart-text23 {
+  top: 418px;
+  left: 801px;
+  color: rgba(11, 102, 255, 1);
+  width: 208px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Eloquia Display;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.user-settings-linked-accountsstart-text24 {
+  top: 449px;
+  left: 801px;
+  color: rgba(11, 102, 255, 1);
+  width: 228px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Eloquia Display;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.user-settings-linked-accountsstart-edit {
+  top: 243px;
+  left: 1109px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.user-settings-linked-accountsstart-frame32 {
+  gap: 10px;
+  top: 100px;
+  left: 1273px;
+  width: 239px;
+  height: 29px;
+  display: flex;
+  padding: 10px;
+  position: absolute;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(11, 102, 255, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 20px;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+ 
+.user-settings-linked-accountsstart-text25 {
+  color: rgba(11, 102, 255, 1);
+  height: auto;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.user-settings-linked-accountsstart-text26 {
+  top: 581px;
+  left: 637px;
+  color: rgba(11, 102, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Lato;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.user-settings-linked-accountsstart-text27 {
+  font-weight: 700;
+}
+ 
+.user-settings-linked-accountsstart-frame122 {
+  gap: 10px;
+  top: 777px;
+  left: -3px;
+  width: 1607px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.user-settings-linked-accountsstart-group44 {
+  width: 1607px;
+  height: 885.9288940429688px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.user-settings-linked-accountsstart-footer {
+  top: 0px;
+  left: 0px;
+  width: 1607px;
+  height: 886px;
+  position: absolute;
+}
+ 
+.user-settings-linked-accountsstart-text30 {
+  top: 100.25146484375px;
+  left: 291.16796875px;
+  color: rgba(255, 255, 255, 1);
+  width: 229px;
+  height: auto;
+  position: absolute;
+  font-size: 29px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.user-settings-linked-accountsstart-simplecirclewhite11 {
+  top: 96px;
+  left: 238px;
+  width: 43px;
+  height: 44px;
+  position: absolute;
+}
+ 
+.user-settings-linked-accountsstart-text31 {
+  top: 294.96942138671875px;
+  left: 238.0078125px;
+  color: rgba(166, 218, 255, 1);
+  width: 102px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.user-settings-linked-accountsstart-text32 {
+  top: 327.63037109375px;
+  left: 238.0078125px;
+  color: rgba(166, 218, 255, 1);
+  width: 131px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.user-settings-linked-accountsstart-text33 {
+  top: 362.3326721191406px;
+  left: 238.0078125px;
+  color: rgba(166, 218, 255, 1);
+  width: 136px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.user-settings-linked-accountsstart-text34 {
+  top: 293.9487609863281px;
+  left: 465.322265625px;
+  color: rgba(166, 218, 255, 1);
+  width: 131px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.user-settings-linked-accountsstart-text35 {
+  top: 328.6510314941406px;
+  left: 465.322265625px;
+  color: rgba(166, 218, 255, 1);
+  width: 106px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.user-settings-linked-accountsstart-text36 {
+  top: 363.35333251953125px;
+  left: 465.322265625px;
+  color: rgba(166, 218, 255, 1);
+  width: 115px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.user-settings-linked-accountsstart-text37 {
+  top: 398.05560302734375px;
+  left: 464px;
+  color: rgba(166, 218, 255, 1);
+  width: 146px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.user-settings-linked-accountsstart-text38 {
+  top: 431.73724365234375px;
+  left: 465px;
+  color: rgba(166, 218, 255, 1);
+  width: 145px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.user-settings-linked-accountsstart-text39 {
+  top: 467.46014404296875px;
+  left: 465px;
+  color: rgba(166, 218, 255, 1);
+  width: 150px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.user-settings-linked-accountsstart-text40 {
+  top: 499.1004638671875px;
+  left: 465px;
+  color: rgba(166, 218, 255, 1);
+  width: 167px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.user-settings-linked-accountsstart-text41 {
+  top: 534.8234252929688px;
+  left: 466.32421875px;
+  color: rgba(166, 218, 255, 1);
+  width: 48px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.user-settings-linked-accountsstart-text42 {
+  top: 293.9487609863281px;
+  left: 691.63671875px;
+  color: rgba(166, 218, 255, 1);
+  width: 113px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.user-settings-linked-accountsstart-text43 {
+  top: 327.63037109375px;
+  left: 691.63671875px;
+  color: rgba(166, 218, 255, 1);
+  width: 91px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.user-settings-linked-accountsstart-text44 {
+  top: 293.9487609863281px;
+  left: 915.94921875px;
+  color: rgba(166, 218, 255, 1);
+  width: 113px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.user-settings-linked-accountsstart-text45 {
+  top: 327.63037109375px;
+  left: 915.94921875px;
+  color: rgba(166, 218, 255, 1);
+  width: 91px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.user-settings-linked-accountsstart-text46 {
+  top: 294.96942138671875px;
+  left: 1144.265625px;
+  color: rgba(166, 218, 255, 1);
+  width: 132px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.user-settings-linked-accountsstart-text47 {
+  top: 241.89532470703125px;
+  left: 238.0078125px;
+  color: rgba(255, 255, 255, 1);
+  width: 88px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.user-settings-linked-accountsstart-text48 {
+  top: 241.89532470703125px;
+  left: 465.322265625px;
+  color: rgba(255, 255, 255, 1);
+  width: 44px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.user-settings-linked-accountsstart-text49 {
+  top: 240.87466430664062px;
+  left: 691.63671875px;
+  color: rgba(255, 255, 255, 1);
+  width: 113px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.user-settings-linked-accountsstart-text50 {
+  top: 241.89532470703125px;
+  left: 915.94921875px;
+  color: rgba(255, 255, 255, 1);
+  width: 113px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.user-settings-linked-accountsstart-text51 {
+  top: 241.89532470703125px;
+  left: 1144.265625px;
+  color: rgba(255, 255, 255, 1);
+  width: 228px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.user-settings-linked-accountsstart-text52 {
+  top: 102.0655288696289px;
+  left: 777.755859375px;
+  color: rgba(255, 255, 255, 1);
+  width: 140px;
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  font-style: Regular;
+  text-align: right;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.user-settings-linked-accountsstart-text53 {
+  top: 329.67169189453125px;
+  left: 1143.263671875px;
+  color: rgba(166, 218, 255, 1);
+  width: 170px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.user-settings-linked-accountsstart-text54 {
+  top: 363.35333251953125px;
+  left: 1142.263671875px;
+  color: rgba(166, 218, 255, 1);
+  width: 170px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.user-settings-linked-accountsstart-text55 {
+  top: 399.07623291015625px;
+  left: 1143.263671875px;
+  color: rgba(166, 218, 255, 1);
+  width: 170px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.user-settings-linked-accountsstart-text56 {
+  top: 435.81982421875px;
+  left: 1143.263671875px;
+  color: rgba(166, 218, 255, 1);
+  width: 170px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.user-settings-linked-accountsstart-text57 {
+  top: 363.35333251953125px;
+  left: 691.63671875px;
+  color: rgba(166, 218, 255, 1);
+  width: 99px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.user-settings-linked-accountsstart-text58 {
+  top: 399.07623291015625px;
+  left: 691.63671875px;
+  color: rgba(166, 218, 255, 1);
+  width: 67px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.user-settings-linked-accountsstart-text59 {
+  top: 431.73724365234375px;
+  left: 691px;
+  color: rgba(166, 218, 255, 1);
+  width: 120px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.user-settings-linked-accountsstart-text60 {
+  top: 466.43951416015625px;
+  left: 691.63671875px;
+  color: rgba(166, 218, 255, 1);
+  width: 169px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.user-settings-linked-accountsstart-frame10 {
+  gap: 10px;
+  top: 95.94159698486328px;
+  left: 1191px;
+  width: 143px;
+  height: 41.84687042236328px;
+  display: flex;
+  padding: 10px;
+  position: absolute;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(0, 112, 255, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 20px;
+  justify-content: center;
+  background-color: rgba(0, 112, 255, 1);
+}
+ 
+.user-settings-linked-accountsstart-text61 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.user-settings-linked-accountsstart-text62 {
+  top: 720.5827026367188px;
+  left: 635.55859375px;
+  color: rgba(255, 255, 255, 1);
+  width: 239px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.user-settings-linked-accountsstart-text63 {
+  top: 720.5827026367188px;
+  left: 954.001953125px;
+  color: rgba(166, 218, 255, 1);
+  width: 137px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.user-settings-linked-accountsstart-text64 {
+  top: 720.5827026367188px;
+  left: 1170.302734375px;
+  color: rgba(166, 218, 255, 1);
+  width: 95px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.user-settings-linked-accountsstart-rectangle3 {
+  top: 95.94159698486328px;
+  left: 927.96484375px;
+  width: 243px;
+  height: 42px;
+  position: absolute;
+  border-color: rgba(229, 229, 229, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 20px;
+}
+ 
+.user-settings-linked-accountsstart-group21 {
+  top: 683.839111328125px;
+  left: 289px;
+  width: 300px;
+  height: 52.053428649902344px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.user-settings-linked-accountsstart-facebook-logo-vector {
+  top: 1.020660400390625px;
+  left: 0px;
+  width: 50px;
+  height: 51px;
+  position: absolute;
+}
+ 
+.user-settings-linked-accountsstart-ig-logo-vector {
+  top: 1.020660400390625px;
+  left: 128px;
+  width: 50px;
+  height: 51px;
+  position: absolute;
+}
+ 
+.user-settings-linked-accountsstart-x-logo-vector {
+  top: 1.020660400390625px;
+  left: 250px;
+  width: 50px;
+  height: 46px;
+  position: absolute;
+}
+ 
+.user-settings-linked-accountsstart-tik-tok-logo-vector {
+  top: 0px;
+  left: 192px;
+  width: 44px;
+  height: 51px;
+  position: absolute;
+}
+ 
+.user-settings-linked-accountsstart-link-in-logo-vector {
+  top: 1.020660400390625px;
+  left: 64px;
+  width: 50px;
+  height: 51px;
+  position: absolute;
+}
+ 
+.user-settings-linked-accountsstart-menudesktop-frame127 {
+  gap: 10px;
+  top: 0px;
+  left: 0px;
+  width: 1600px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.user-settings-linked-accountsstart-menu-group91 {
+  width: 1600px;
+  height: 33px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(36, 36, 36, 1);
+}
+ 
+.user-settings-linked-accountsstart-text65 {
+  top: 10px;
+  left: 505px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.user-settings-linked-accountsstart-text66 {
+  top: 10px;
+  left: 400px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.user-settings-linked-accountsstart-text67 {
+  top: 10px;
+  left: 570px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.user-settings-linked-accountsstart-text68 {
+  top: 10px;
+  left: 671px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.user-settings-linked-accountsstart-text69 {
+  top: 10px;
+  left: 748px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.user-settings-linked-accountsstart-text70 {
+  top: 10px;
+  left: 817px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.user-settings-linked-accountsstart-text71 {
+  top: 10px;
+  left: 902px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.user-settings-linked-accountsstart-text72 {
+  top: 10px;
+  left: 1003px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.user-settings-linked-accountsstart-text73 {
+  top: 10px;
+  left: 1120px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.user-settings-linked-accountsstart-simplecirclewhite12 {
+  top: 7px;
+  left: 351px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+ 
+.user-settings-linked-accountsstart-shoppingcart {
+  top: 7px;
+  left: 1222px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+ 
+.user-settings-linked-accountsstart-icon {
+  top: 7px;
+  left: 1176px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}

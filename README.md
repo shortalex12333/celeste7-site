@@ -68,3 +68,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Deploying to GitHub Pages
+
+To deploy the new UX to GitHub Pages, follow these steps:
+
+1. Ensure you have the latest changes committed to your repository.
+2. Run the following command to build and deploy the app:
+   ```bash
+   npm run deploy
+   ```
+3. The app will be deployed to the `gh-pages` branch of your repository.
+4. Your site will be available at [https://alexshort.github.io/celeste7-ui](https://alexshort.github.io/celeste7-ui).
